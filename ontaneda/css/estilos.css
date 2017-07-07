@@ -1,7 +1,45 @@
+nav.navbar>.row{
+    width: 100%;
+}
+
+#contactos {
+    font-size: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#sociales {
+    font-size: 20px;
+}
+
+#sociales i {
+    margin-right: 5px;
+}
+
+#menu-principal {
+    background-color: #174a41;
+    max-height: 30px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+#menu-principal a {
+    color: #ffffff;
+}
+
+#menu-principal #contenedor-reservaciones {
+    margin-left: 30px;
+}
+#menu-principal #link-reservaciones {
+    background-color: #c3922e;
+}
+
 .arrow-down {
     width: 0px;
     height: 0px;
     border-left: 71px solid transparent;
     border-right: 70px solid transparent;
-    border-top: 20px solid #f00;
+    border-top: 20px solid #c3922e;
 }
+
+
