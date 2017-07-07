@@ -71,4 +71,13 @@ nav.navbar>.row{
     padding: 25px;
 }
 
+#servicios .nav-tabs a{
+    color: #000000;
+    text-transform: uppercase;
+}
+
+#servicios .nav-tabs a span{
+    border-bottom: 3px solid #c3922e;
+    padding: 5px;
+}
 
