@@ -1,3 +1,7 @@
+nav.navbar {
+    padding-bottom: 0;
+}
+
 nav.navbar>.row{
     width: 100%;
 }
@@ -40,6 +44,31 @@ nav.navbar>.row{
     border-left: 71px solid transparent;
     border-right: 70px solid transparent;
     border-top: 20px solid #c3922e;
+
+    position: relative;
+    z-index: 1;
+}
+
+
+#slider-principal img{
+    max-height: 500px;
+}
+
+
+#intro {
+    margin-top: -60px;
+}
+
+#intro h2 {
+    background-color: #174a41;
+    padding: 25px 15px;
+    color: #ffffff;
+}
+
+#intro .text {
+    background-color: #ffffff;
+    font-size: 12px;
+    padding: 25px;
 }
 
 
